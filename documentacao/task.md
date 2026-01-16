@@ -1,0 +1,14 @@
+- [ ] Pivoting to MVP Validation (React    - [x] 4. Modelo de Dados <!-- id: 3 -->
+    - [x] 7. Ideias de Monetização (Refinado: Freemium/B2B/Ads) <!-- id: 4 -->
+- [x] Roadmap de Desenvolvimento (Artifact: `tech_roadmap.md`) <!-- id: 5 -->
+    - [x] Setup do Backend (NestJS + Firebase Integration) <!-- id: 19 -->
+    - [x] Implementar Auth (Google/Email com Firebase) <!-- id: 20 -->
+    - [x] Implementar Feed de Conteúdo e Busca (TMDB Wrapper) <!-- id: 21 -->
+    - [x] Implementar Preferências do Usuário (Firestore) <!-- id: 22 -->
+    - [x] Deploy Web (Vercel/Firebase Hosting) <!-- id: 23 -->
+- [ ] Fase 2: Evolução SaaS (Premium & Scale) <!-- id: 24 -->
+    - [x] Estratégia de Crescimento e KPIs (Artifact: `saas_growth_strategy.md`) <!-- id: 25 -->
+    - [x] Refinar Roadmap para Assinaturas e IA Avançada <!-- id: 26 -->
+    - [x] Implementar UI Premium (Glassmorphism/Animations) <!-- id: 27 -->
+    - [x] Implementar Gateway de Pagamento (Mock Pricing Page) <!-- id: 28 -->
+    - [x] Growth: SEO Programático (Landing Pages Dinâmicas) <!-- id: 29 -->
